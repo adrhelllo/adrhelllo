@@ -1,7 +1,6 @@
 ## Hi👋
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=adrianhelllo)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrianhelllo&show_icons=true)
 
 <!--
 **adrianhelllo/adrianhelllo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
