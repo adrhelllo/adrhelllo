@@ -1,4 +1,5 @@
-## Hey👋
+## Hey! 👋
+## I'm Adrián Hetessy, a student in Software Development and Testing at SZÁMALK-Szalézi Technikum és Szakgimnázium. 📚
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=adrianhelllo)
 
