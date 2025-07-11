@@ -3,15 +3,21 @@
 
 ## -- HU -- ##
 💭 Nagyon szeretek programozni. Ide szoktam feltölteni projektjeimet viszonylag gyakran.
+
 📚 A SZÁMALK-Szalézi Technikum és Szakgimnázium Szoftverfejlesztő és Tesztelő szakán technikusként tanulok programozni, de magamtól is gyakran kódolok.
+
 🔥 Szeretnék minden nap programozni, legalább egy picit. Sokszor töltök fel ide olyan projekteket, melyek esetleg előrehaladnak az anyaggal, vagy csak valami érdekes dologgal foglalkoznak. Ezek érdekessé teszik a programozást számomra.
+
 ℹ️ Szeretnél kérdezni valamit? Vagy lenne egy javaslatod? Nagyon szivesen hallanám. Picit lejjebb megtalálod, hogyan üzenhetsz nekem!
 
 ## -- EN -- ##
 
 💭 I love to code. I often upload my projects here.
+
 📚 I'm studying Software Development and Testing at SZÁMALK-Szalázi Technikum és Szakgimnázium, but I often code on my own, too.
+
 🔥 I'm trying to code, at least a little, every day. Often, my uploaded repositories include material that we haven't yet covered, or just something I learned about for personal interest. These make programming interesting for me.
+
 ℹ️ Do you have a question or a suggestion? I'd love to hear from you. You can find my contacts below.
 
 ## My Contacts:
