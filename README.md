@@ -31,7 +31,7 @@
 ## Other fun stuff:
 Wanna hear some more from me? You're in the right place!
 
-📅 July 10, 2025 - *I'm currently focusing on web development. Mostly CSS. Still a noobie, but i'm working on it. I hope I won't forget to change this eventually...*
+📅 July 14, 2025 - *Starting progress on Bootstrap 5!*
 
 ### My Contribution streak:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=adrianhelllo)
