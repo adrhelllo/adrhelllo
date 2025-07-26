@@ -1,4 +1,14 @@
-# Hey! 👋
+### Hello!
+
+I'm a Software Development student in Hungary who's looking for fun projects to work on.
+
+![adr's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianhelllo&show_icons=true&theme=vue-dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhelllo&hide_progress=true&vue-dark)
+
+
+
+
+<!-- # Hey! 👋
 ## I'm Adrián, a student in Software Development and Testing from Hungary. 📚
 
 ## -- HU -- ##
@@ -34,7 +44,7 @@ Wanna hear some more from me? You're in the right place!
 📅 July 14, 2025 - *Starting progress on Bootstrap 5!*
 
 ### My Contribution streak:
-![GitHub Streak](https://streak-stats.demolab.com/?user=adrianhelllo)
+![GitHub Streak](https://streak-stats.demolab.com/?user=adrianhelllo) -->
 
 <!--
 **adrianhelllo/adrianhelllo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
