@@ -5,7 +5,13 @@ I'm a Software Development student in Hungary who's looking for fun projects to 
 ![adr's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianhelllo&show_icons=true&theme=vue-dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhelllo&hide_progress=false&theme=vue-dark&layout=compact)
 
+### Contact me!
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) Send me an email: hetessyadrian@gmail.com
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/vq_ghz) Click me to chat with me on Discord!
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/htsy.adr) Click me to follow me on Instagram!
 
 
 <!-- # Hey! 👋
