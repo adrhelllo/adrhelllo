@@ -11,7 +11,6 @@ I'm a Software Development student in Hungary who's looking for fun projects to 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/htsy.adr)
 
-Alternatively, send me an email at hetessyadrian@gmail.com
 
 
 <!-- # Hey! 👋
