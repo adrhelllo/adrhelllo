@@ -1,4 +1,4 @@
-### Hello!
+### Hi!
 
 I'm a Software Development student in Hungary who's often looking for fun projects to work on.
 
